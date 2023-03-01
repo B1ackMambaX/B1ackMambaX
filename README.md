@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![codewars](https://www.codewars.com/users/B1ackMambaX/badges/large)](https://www.codewars.com/users/username)
 
 <!--
 **B1ackMambaX/B1ackMambaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
