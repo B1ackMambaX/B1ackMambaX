@@ -1,6 +1,9 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)<br>
-[![codewars](https://www.codewars.com/users/B1ackMambaX/badges/large)](https://www.codewars.com/users/B1ackMambaX)
+<img src="profile-header.png">
+
+## About me ⚡
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&duration=2500&pause=1000&color=1BC5FF&multiline=true&repeat=false&random=false&width=500&height=60&lines=-+Computer+science+student+at+UrFU;-+Frontend+Dev+from+Ekaterinburg%2C+Russia)](https://git.io/typing-svg)
+
+## My stack 🚀
 
 <!--
 **B1ackMambaX/B1ackMambaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
