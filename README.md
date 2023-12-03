@@ -1,4 +1,4 @@
-<img src="profile-header.png">
+<img src="header.png">
 
 ## About me ⚡
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+code&duration=2500&pause=1000&color=1BC5FF&multiline=true&repeat=true&random=false&width=500&height=60&lines=-+Computer+science+student+at+UrFU;-+Frontend+Dev+from+Ekaterinburg%2C+Russia)](https://git.io/typing-svg)
