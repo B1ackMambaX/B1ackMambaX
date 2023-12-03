@@ -11,4 +11,5 @@
 
 ## Stats 📊
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B1ackMambaX&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=B1ackMambaX&theme=react) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=B1ackMambaX&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=B1ackMambaX&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=B1ackMambaX&theme=react)
